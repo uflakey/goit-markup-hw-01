@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+imagges/img-1.png
+imagges/img-2.png
+imagges/img-3.png
